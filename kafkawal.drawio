@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T03:42:29.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="k3HjLoh2-6vPKOUd1XTy" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T03:44:56.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="f5a2Kl8XqL-8UKazcKUn" version="21.6.2" type="github">
   <diagram name="第 1 页" id="7BHzZXTAQn9wGE9KZMy-">
     <mxGraphModel dx="1224" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="enEq4ZjrOeqkit9ecf1z-12" value="Topic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="405" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="enEq4ZjrOeqkit9ecf1z-20" value="read partition logs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="enEq4ZjrOeqkit9ecf1z-20" value="read logs in partition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enEq4ZjrOeqkit9ecf1z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="enEq4ZjrOeqkit9ecf1z-23" target="enEq4ZjrOeqkit9ecf1z-9" edge="1">
@@ -82,10 +82,10 @@
         <mxCell id="enEq4ZjrOeqkit9ecf1z-34" value="Shard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="428" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="enEq4ZjrOeqkit9ecf1z-35" value="read partition logs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="enEq4ZjrOeqkit9ecf1z-35" value="read logs in partition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="140" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="enEq4ZjrOeqkit9ecf1z-36" value="read partition logs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="enEq4ZjrOeqkit9ecf1z-36" value="read logs in partition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="200" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
