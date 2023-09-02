@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T10:24:01.563Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" etag="l8ECT_-3F7f_9hmiO1EZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T12:07:34.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ivSghJo-yRAVL5nR16tA" version="21.6.9" type="github">
   <diagram name="第 1 页" id="CbVHG_sF6pk0jGWwifxH">
-    <mxGraphModel>
+    <mxGraphModel dx="1224" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qUyhmBfDreo2t6wbdCgN-1" target="qUyhmBfDreo2t6wbdCgN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-1" value="&lt;b&gt;task &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-2" value="&lt;b&gt;task &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-3" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-4" value="&lt;b&gt;task &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-9" value="&lt;b&gt;do it&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-11" value="&lt;b&gt;task &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-14" value="&lt;b&gt;Compactioner&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qUyhmBfDreo2t6wbdCgN-15" target="qUyhmBfDreo2t6wbdCgN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUyhmBfDreo2t6wbdCgN-15" value="&lt;div&gt;&lt;b&gt;Trigger compactio,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;push the task&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
