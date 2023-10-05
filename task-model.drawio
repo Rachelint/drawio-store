@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:22:22.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.2" etag="MJeYfboHUsjcuK5xMu9-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:29:56.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="3Vk9CpVo6eN2zKbv_hft" version="22.0.2" type="github">
   <diagram name="第 1 页" id="TuBOP4SOUBkxJFCFS6-D">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-1" target="Uz1_Gug-2insgdr3uzFE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-1" target="Uz1_Gug-2insgdr3uzFE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-1" value="input" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-2" target="Uz1_Gug-2insgdr3uzFE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-2" target="Uz1_Gug-2insgdr3uzFE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-2" value="processor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-3" target="Uz1_Gug-2insgdr3uzFE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-3" value="output" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-8" target="Uz1_Gug-2insgdr3uzFE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-8" value="task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz1_Gug-2insgdr3uzFE-10" target="Uz1_Gug-2insgdr3uzFE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-10" value="executor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz1_Gug-2insgdr3uzFE-11" value="result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
