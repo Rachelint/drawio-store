@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T00:52:18.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.0.8" etag="jwiWFp8heHh8A0Z_9FUP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T01:01:56.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="tzaEqq-TWZoqgj5qaymI" version="22.0.8" type="github">
   <diagram name="第 1 页" id="ZgfotklGFh0VhQ6QE5nJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-2" value="" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="455" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-3" value="vnode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-4" value="inverted index" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-5" value="&lt;div&gt;tag&lt;/div&gt;&lt;div&gt;--&amp;gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;table id&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-6" value="data" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="485" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-7" value="&lt;div&gt;table id&lt;/div&gt;&lt;div&gt;--&amp;gt;&lt;/div&gt;&lt;div&gt;data block&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="525" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-9" value="time duration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="255" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="jtj6SMFAeTUUewU0qPhG-10" target="jtj6SMFAeTUUewU0qPhG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="jtj6SMFAeTUUewU0qPhG-10" target="jtj6SMFAeTUUewU0qPhG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-10" value="supertable" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-12" value="&lt;div&gt;vnode id 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;(通过 table name + shard tag 算 hash?)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-13" value="vnode" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jtj6SMFAeTUUewU0qPhG-15" value="vnode id 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="414" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
