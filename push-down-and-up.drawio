@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T03:39:44.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.3" etag="gpPAiagq9XMEOB1RQ2pt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T03:47:06.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="PVNSIjGttBxbtc15U4TM" version="22.1.3" type="github">
   <diagram name="第 1 页" id="Kx0ArDQxQQRxlGpiTA4H">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BAhM7bIOgqJUcbEodLrS-1" target="BAhM7bIOgqJUcbEodLrS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-1" value="datafusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAhM7bIOgqJUcbEodLrS-3" target="BAhM7bIOgqJUcbEodLrS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-3" value="projection" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAhM7bIOgqJUcbEodLrS-9" target="BAhM7bIOgqJUcbEodLrS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-9" value="ceresdb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-11" value="projection" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="440" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-12" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-13" value="&lt;div&gt;ceresdb&lt;/div&gt;&lt;div&gt;schema&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="440" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BAhM7bIOgqJUcbEodLrS-14" target="BAhM7bIOgqJUcbEodLrS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-14" value="&lt;div&gt;projected&lt;/div&gt;&lt;div&gt;schema&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BAhM7bIOgqJUcbEodLrS-17" value="&lt;div&gt;这个回传给 df 的 schema&lt;/div&gt;&lt;div&gt;可能跟 projection 顺序不同，&lt;/div&gt;&lt;div&gt;datafusion 会根据回传 schema&lt;/div&gt;&lt;div&gt;生成 physical plan &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="484" y="340" width="176" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
