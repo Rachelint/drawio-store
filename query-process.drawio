@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:54:15.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="vkknzFLKloDlJdLFYm9u" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:56:15.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="nUl4lyk7IZKv19_GTP1m" version="22.1.7" type="github">
   <diagram name="第 1 页" id="rps6Cipa3gKC37jfnILK">
     <mxGraphModel dx="1414" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -891,13 +891,13 @@
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-515" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span&gt;...&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="8834" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-526" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-526" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="65" y="8448" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-527" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-527" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="284" y="8404" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-528" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-528" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="284.88" y="8473" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-530" value="&lt;b&gt;LayeredMemtable&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -907,19 +907,31 @@
           <mxGeometry x="318" y="8371" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-533" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.25" y="8365" width="132" height="239" as="geometry" />
+          <mxGeometry x="492" y="8335.5" width="132" height="239" as="geometry" />
         </mxCell>
-        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-534" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514.25" y="8398" width="120" height="60" as="geometry" />
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-534" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="498" y="8368.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-535" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515.13" y="8467" width="120" height="60" as="geometry" />
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-535" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="498.88" y="8437.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-536" value="&lt;b&gt;LayeredMemtable&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="548.25" y="8365" width="60" height="30" as="geometry" />
+          <mxGeometry x="532" y="8335.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-537" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="8538" width="120" height="60" as="geometry" />
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-537" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="499.25" y="8508.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-540" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="8464" as="sourcePoint" />
+            <mxPoint x="264" y="8464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-541" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418" y="8465.5" as="sourcePoint" />
+            <mxPoint x="483" y="8465.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
