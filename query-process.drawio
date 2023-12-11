@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:56:15.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="nUl4lyk7IZKv19_GTP1m" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:58:40.302Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="YpbeKpAsL9keTj1QUgH-" version="22.1.7" type="github">
   <diagram name="第 1 页" id="rps6Cipa3gKC37jfnILK">
     <mxGraphModel dx="1414" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -907,19 +907,25 @@
           <mxGeometry x="318" y="8371" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-533" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="8335.5" width="132" height="239" as="geometry" />
+          <mxGeometry x="184" y="8630" width="420" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-543" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5W2cTwgAZAYK2Sw7-8Q3-534" target="5W2cTwgAZAYK2Sw7-8Q3-507">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-534" value="&lt;b&gt;Mutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="498" y="8368.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="196" y="8668" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5W2cTwgAZAYK2Sw7-8Q3-535" target="5W2cTwgAZAYK2Sw7-8Q3-516">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-535" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="498.88" y="8437.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="8668" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-536" value="&lt;b&gt;LayeredMemtable&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="8335.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="379" y="8630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-537" value="&lt;b&gt;Immutable segment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="499.25" y="8508.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="473.13" y="8666" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5W2cTwgAZAYK2Sw7-8Q3-540" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
