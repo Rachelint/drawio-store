@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T05:43:12.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="9LQKvXkT3rQwdTjo9NaV" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T05:43:41.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="3iwhw8erlle1Q0SGds9j" version="22.1.9" type="github">
   <diagram name="第 1 页" id="qwf2FPHdD3lJ28nGBaiQ">
     <mxGraphModel dx="1414" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,6 +163,12 @@
         </mxCell>
         <mxCell id="heY3uBJSoqg5BncuLF00-71" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;查询条件&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89.5" y="584" width="60" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="heY3uBJSoqg5BncuLF00-82" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;指标 + 标签&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="716" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="heY3uBJSoqg5BncuLF00-83" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;时间 + 数据集&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="710" width="84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
